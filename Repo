@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="1800">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dashboard Power BI</title>
+
+    <style>
+
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+
+        body{
+            overflow:hidden;
+            background:#ffffff;
+            font-family:Arial, Helvetica, sans-serif;
+        }
+
+        iframe{
+            width:100vw;
+            height:100vh;
+            border:none;
+        }
+
+    </style>
+</head>
+
+<body>
+
+<iframe
+src="https://app.powerbi.com/view?r=eyJrIjoiZDRhMDI4MjUtNDk0NS00MDEyLTkzN2MtYTBhMDhkOWI2MDI0IiwidCI6IjAyMDhhY2YzLTJiYjQtNGMzYi04MGQ5LTM2YTY4M2Y3OWZkNiJ9"
+allowfullscreen="true">
+</iframe>
+
+</body>
+</html>
